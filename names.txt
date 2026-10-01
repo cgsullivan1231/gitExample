@@ -1,4 +1,3 @@
-boss,cgsullivan,Sullivan,Catherine
+role,NetID,LastName,FirstName
 employee,yfuhrman,Fuhrman,Yana
 boss,cgsullivan,Sullivan,Catherine
-role,NetID,LastName,FirstName
