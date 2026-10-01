@@ -1,3 +1,4 @@
 boss,cgsullivan,Sullivan,Catherine
 employee,yfuhrman,Fuhrman,Yana
 boss,cgsullivan,Sullivan,Catherine
+role,NetID,LastName,FirstName
